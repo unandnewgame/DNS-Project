@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d1c93fcef872a14d9b6b7ca30dc49e1, type: 3}
+  m_Name: MainCharacter
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterName: Tony
+  turrets: {fileID: 11400000, guid: e2ce76280ea501245bb350ae60319857, type: 2}
+  sprite: {fileID: 0}
+  damageBonus: 0
+  lv: 0
+  lines:
+  - Hy my name is Tony and this is our first Dialogue system test
+  - and im the Head of Wall Force Defender
+  - theres a Zombie incoming, press B for going into Build Mode
