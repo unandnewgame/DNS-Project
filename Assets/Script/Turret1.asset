@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cbde288c1aa36742b44a7e42de6479c, type: 3}
   m_Name: Turret1
   m_EditorClassIdentifier: 
-  objectName: Turret1
-  previewPrefab: {fileID: 6925533766183779439, guid: 7209f8eca2ccb494a849727924f55844, type: 3}
-  finalPrefab: {fileID: 2440174049326721997, guid: 06c1543eb495bad4baf4d543a5ae4188, type: 3}
+  objectName: BasicGun
+  previewPrefab: {fileID: 5758625402119171235, guid: c24e6d5e51942264981cedb2a2e19d77, type: 3}
+  finalPrefab: {fileID: 2047453765903256866, guid: c1232ae162be5b447b21c59c456061be, type: 3}
   placementOffset: {x: 0, y: 0, z: 0}
-  tower: {fileID: 8131283757317442901, guid: 06c1543eb495bad4baf4d543a5ae4188, type: 3}
+  tower: {fileID: 4064958846208411561, guid: c1232ae162be5b447b21c59c456061be, type: 3}
   turretSprite: {fileID: 21300000, guid: 69187177991014341908d913b6a86ccb, type: 3}
   damage: 10
   lv: 1
